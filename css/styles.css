@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    padding: 100px 0;
+    background: url('../images/') no-repeat center center;
+    background-size: cover;
+}
+
+.benefits-section {
+    padding: 50px 0;
+}
+
+.card {
+    margin: 15px;
+}
+
+.faq-section .card-header {
+    background-color: #f8f9fa;
+}
+
+.footer {
+    background-color: #222;
+}
